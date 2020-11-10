@@ -1,0 +1,1 @@
+sudo /usr/local/bin/run_gatsby_tmp webmortlock >> /home/apigatsbydilated/logs/mortlockgatsbycron.log 2>&1
